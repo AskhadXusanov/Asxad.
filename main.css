@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    background-size: cover;
+    
+    gap: 30px;
+    background-image: url("./image\ 1\ \(1\).png");
+    width: 100%;
+    height: 1024px ;
+    background-repeat: no-repeat;
+    background-position: center;
+
+
+}
+ul{
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+    align-items: center;
+}
+li{
+    list-style: none;
+}
+.button1{
+    display: flex;
+    align-items: center;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    width: 243px;
+    height: 43px;
+    box-shadow: 0px 4px ;
+}
+.nav1{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 50px 0 50px;
+}
+.montly{
+    width: 268px;
+    height: 22px;
+    text-decoration: none;
+    color: white;
+}
+.select{
+    color: white;
+}
+.button2{
+    width: 604px;
+    height: 103px;
+    display: flex;
+    justify-content: center;
+    background-color: yellow;
+    border: 11px solid rgb(89, 87, 87) ;
+    border-radius: 50px;
+    font-size: 36px;
+    align-items: center;
+    text-shadow: blue 2px 2px;
+
+}
+.buttondiv{
+    display: flex;
+    justify-content: center;
+    margin-top: 243px;
+}
+.allcard{
+    display: flex;
+    justify-content: center;
+    margin-top: 170px;
+    gap: 180px;
+}
+
+.text{
+    background-color: red;
+}
+.sherzod{
+    color: black;
+    background-color: rgb(71, 69, 69);
+    text-align: center;
+    text-shadow: gold 2px 2px 2px;
+    
+
+}
+.container2{
+    background-size: cover;
+    
+    gap: 30px;
+    background-color: black;
+    width: 100%;
+    height: 1024px ;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+.nfarmation{
+    color: rgb(100, 97, 97);
+    text-align: center;
+   
+}
+ .inf{
+    padding-top: 40px;
+    text-shadow: white 3px 3px 3px;
+
+    }
+    .img10{
+        padding-top: 40px;
+        padding-left: 40px;
+    }
+    .koptext{
+        color: white;
+    }
+    .otaimg{
+        display: flex;
+    }
+    .koptext{
+        margin: 0px 200px 0px 200px;
+        padding-top: 40px;
+    }
+    .button3{
+        padding-top: 200px;
+        padding-left: 250px;
+    }
+    .buttonni-ozi{
+        width: 278px;
+        height: 61px;
+        
+        color: white;
+        font-size: 30px;
+        box-shadow: white 3px 3px 3px 3px;
+        text-shadow: black 3px 3px 3px;
+
+        
+    }
+    .button3 .buttonni-ozi:hover{
+        background-color: gray;
+    }
+    .ota-mars{
+        display: flex;
+        padding-top: 150px;
+    }
+    .texttt{
+        color: white;
+        margin: 0px 200px 0px 200px;
+        padding-top: 30px;
+    }
+    .box-img{
+        padding-right: 40px;
+    }
+    .ota-sher{
+        padding-bottom: 50px;
+    }
+    .footer{
+        padding: 51px 52px;
+        background-color: yellow;
+    }
+    .footer-otasi{
+        display: flex;
+        justify-content: space-between;
+
+    }
+    .left img{
+        margin-left: 25px;
+        gap: ;
+    }
+       
